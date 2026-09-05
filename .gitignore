@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Build Outputs
+dist/
+build/
+*.zip
+
+# Junk files
+.DS_Store
+Thumbs.db
+.vscode/
